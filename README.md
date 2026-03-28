@@ -1,82 +1,88 @@
-# 👋 Hi, I'm Ricardo Fukai
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Ricardo Fukai</h1>
+<h3 align="center">Backend Engineer | .NET | Scalable Systems</h3>
 
-🚀 Backend Engineer focused on scalable systems and high-performance APIs
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Engineer;400%2B+Endpoints+API;Clean+Architecture+Advocate;Building+Scalable+Systems" />
+</p>
 
 ---
 
 ## ⚡ About Me
 
-- 💻 Backend developer with real-world experience
-- 🧠 Built and maintained APIs with **400+ endpoints**
-- 🏗️ Focused on **Clean Architecture & scalability**
-- 🌍 Based in Japan, working globally
+- 💻 Backend Engineer with real-world production experience  
+- 🚀 Built APIs with **400+ endpoints**  
+- 🏗️ Focused on **Clean Architecture & scalability**  
+- 🌍 Based in Japan, working globally  
 
 ---
 
-## 🔥 Main Project
+## 🔥 Featured Project
 
 ### 🌳 Treefluence API (SaaS Platform)
 
-🚀 Production-ready backend system
-
-- Built a scalable REST API with **400+ endpoints**
-- Implemented **JWT authentication & role-based access**
-- Applied **Clean Architecture principles**
-- Integrated **PostgreSQL with Entity Framework**
-- Designed for **performance & maintainability**
-
----
-
-## 🚀 Other Projects
-
-### 🥗 Nutrition App Backend (MVP)
-- API for fitness & nutrition tracking
-- Business logic and scalable structure
-
-### 🔐 Authentication System
-- JWT-based authentication
-- Role & permission system
+- 🚀 Scalable REST API (**400+ endpoints**)  
+- 🔐 JWT Authentication & Role-Based Access  
+- 🏗️ Clean Architecture  
+- 🗄️ PostgreSQL + Entity Framework  
+- ⚡ High performance & maintainability  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
+</p>
 
 ### 🗄️ Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
 
-### ⚙️ Tools & Architecture
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+### ⚙️ Tools & Infra
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FukaiRicardo&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FukaiRicardo&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🔥 Most Used Languages
+## 🔥 Streak Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FukaiRicardo&layout=compact&theme=dark)
-
----
-
-## ⚡ Let's Connect
-
-- 💼 GitHub: https://github.com/FukaiRicardo
-- 📧 Email: fukairicardo@gmail.com
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FukaiRicardo&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🚀 Motto
+## 🧠 Top Languages
 
-> "Build systems that scale. Write code that lasts."
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FukaiRicardo&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/FukaiRicardo">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 💭 Motto
+
+> Build systems that scale. Write code that lasts.
