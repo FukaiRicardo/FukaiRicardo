@@ -66,7 +66,7 @@
 ---
 
 ## 🧠 Top Languages
-
+<!-- Top Languages hidden for now -->
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FukaiRicardo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
