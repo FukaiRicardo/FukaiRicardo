@@ -1,32 +1,33 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Ricardo Fukai</h1>
-<h3 align="center">Backend Engineer | .NET | Scalable Systems</h3>
+<h3 align="center">Backend Developer | Scalable APIs | Clean Architecture</h3>
 
 <!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Engineer;400%2B+Endpoints+API;Clean+Architecture+Advocate;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;Building+Scalable+APIs;Clean+Architecture;Always+Learning" />
 </p>
 
 ---
 
 ## ⚡ About Me
 
-- 💻 Backend Engineer with real-world production experience  
-- 🚀 Built APIs with **400+ endpoints**  
-- 🏗️ Focused on **Clean Architecture & scalability**  
+- 💻 Backend Developer focused on building scalable APIs  
+- 🚀 Experience with REST APIs, authentication and real-world applications  
+- 🏗️ Strong focus on **Clean Architecture & maintainability**  
 - 🌍 Based in Japan, working globally  
 
 ---
 
 ## 🔥 Featured Project
 
-### 🌳 Treefluence API (SaaS Platform)
+### 🔥 Treefluence API (SaaS Platform)
+🔗 https://github.com/FukaiRicardo/treefluence-api
 
-- 🚀 Scalable REST API (**400+ endpoints**)  
+- 🚀 Scalable REST API  
 - 🔐 JWT Authentication & Role-Based Access  
 - 🏗️ Clean Architecture  
 - 🗄️ PostgreSQL + Entity Framework  
-- ⚡ High performance & maintainability  
+- ⚡ Focus on performance and maintainability  
 
 ---
 
@@ -34,17 +35,17 @@
 
 ### 💻 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
 ### ⚙️ Tools & Infra
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git" />
 </p>
 
 ---
@@ -66,7 +67,7 @@
 ---
 
 ## 🧠 Top Languages
-<!-- Top Languages hidden for now -->
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FukaiRicardo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
